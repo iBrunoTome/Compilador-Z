@@ -6,6 +6,7 @@ Criação de um compilador léxico e sintático para a linguagem Z. Trabalho rea
 #### Integrantes
 - Bruno Tomé
 - Cláudio Menezes
+- Vinícius Duarte
 
 #### Instruções Para Compilar
 
